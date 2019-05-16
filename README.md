@@ -1,22 +1,18 @@
 # Development Tips for Smart TVs
 
-[Português](README_pt.md)
+| Manufacturer  | Operating System |  Engine |
+| ------------- | ---------------- | ------- |
+| Samsung | Tizen | - |
+| Samsung | Orsay | - |
+| LG | webOS | - |
+| LG | NetCast | - |
+| Sony | Linux | - |
+| Sony | Android | - |
+| Panasonic | - | - |
+| Philips | - | - |
+| TCL | - | - |
+| Philco | - | - |
 
-## Manufacturers and Operating System
-* Samsung
-    - Tizen
-    - Orsay
-* LG
-    - webOS
-    - Netcast
-* Sony
-    - Linux
-    - Android
-* Panasonic
-    - Firefox OS
-* Philips
-* TCL
-* Philco
 
 ## Overview
 * Because there are multiple operating systems and different browsers, running on one TV model does not guarantee that in another model your application will work.
