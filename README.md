@@ -1,5 +1,6 @@
 # Development Tips for Smart TVs
 
+## Manufacturer, Operating System and other useful information
 | Manufacturer  | Operating System |  Engine |
 | ------------- | ---------------- | ------- |
 | Samsung | Tizen | - |
