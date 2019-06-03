@@ -8,8 +8,8 @@ Some devices have motion control support, such as webOS (LG operating system). T
 ## Ecosystem
 | Manufacturer  | Operating System |  Engine |
 | ------------- | ---------------- | ------- |
-| Samsung | Tizen | - |
-| Samsung | Orsay | - |
+| Samsung | Tizen¹ | - |
+| Samsung | Orsay¹ | - |
 | LG | webOS | - |
 | LG | NetCast | - |
 | Sony | Linux | - |
@@ -18,6 +18,8 @@ Some devices have motion control support, such as webOS (LG operating system). T
 | Philips | NetRange | - |
 | TCL | NetRange | - |
 | Philco | NetRange | - |
+
+`¹ - Linux based OS`
 
 ## Be careful with
 * `https`: You will play with low end and old devices. It means obsolate software with low resources, and these devices usually doesn't play well with encryptation.
