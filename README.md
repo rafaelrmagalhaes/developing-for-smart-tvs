@@ -5,19 +5,26 @@ Play with Smart TVs should be fun, if you like to be challenged. There are a lot
 
 Some devices have motion control support, such as webOS (LG operating system). This is a mandatory functionality so you need to support it to be approved in the app store. In the same way, another manufacturer, Samsung for instante, has mandatory functionalities, like multitasking.
 
+## Keep Track
+[Get Started](GETTING_STARTED.md)
+#### About TVs Manufacturers
+[LG](LG.md)
+
 ## Ecosystem
-| Manufacturer  | Operating System |  Engine |
+| Manufacturer  | Operating System | Web Engine |
 | ------------- | ---------------- | ------- |
-| Samsung | Tizen | - |
-| Samsung | Orsay | - |
-| LG | webOS | - |
-| LG | NetCast | - |
+| Samsung | Tizen¹ | - |
+| Samsung | Orsay¹ | - |
+| LG | webOS | Chromium / WebKit 538.2- |
+| LG | NetCast | WebKit 537.1- |
 | Sony | Linux | - |
 | Sony | Android | - |
 | Panasonic | Firefox OS | - |
 | Philips | NetRange | - |
 | TCL | NetRange | - |
 | Philco | NetRange | - |
+
+`¹ - Linux based OS`
 
 ## Be careful with
 * `https`: You will play with low end and old devices. It means obsolate software with low resources, and these devices usually doesn't play well with encryptation.
