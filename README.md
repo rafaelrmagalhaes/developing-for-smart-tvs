@@ -5,6 +5,11 @@ Play with Smart TVs should be fun, if you like to be challenged. There are a lot
 
 Some devices have motion control support, such as webOS (LG operating system). This is a mandatory functionality so you need to support it to be approved in the app store. In the same way, another manufacturer, Samsung for instante, has mandatory functionalities, like multitasking.
 
+## Keep Track
+[Get Started](GETTING_STARTED.md)
+#### About TVs Manufacturers
+[LG](LG.md)
+
 ## Ecosystem
 | Manufacturer  | Operating System |  Engine |
 | ------------- | ---------------- | ------- |
