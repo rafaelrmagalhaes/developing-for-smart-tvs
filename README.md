@@ -11,12 +11,12 @@ Some devices have motion control support, such as webOS (LG operating system). T
 [LG](LG.md)
 
 ## Ecosystem
-| Manufacturer  | Operating System |  Engine |
+| Manufacturer  | Operating System | Web Engine |
 | ------------- | ---------------- | ------- |
 | Samsung | Tizen¹ | - |
 | Samsung | Orsay¹ | - |
-| LG | webOS | - |
-| LG | NetCast | - |
+| LG | webOS | Chromium / WebKit 538.2- |
+| LG | NetCast | WebKit 537.1- |
 | Sony | Linux | - |
 | Sony | Android | - |
 | Panasonic | Firefox OS | - |
