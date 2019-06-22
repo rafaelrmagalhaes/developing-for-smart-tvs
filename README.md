@@ -7,6 +7,7 @@ Some devices have motion control support, such as webOS (LG operating system). T
 
 ## Keep Track
 [Get Started](GETTING_STARTED.md)
+
 #### About TVs Manufacturers
 [LG](LG.md)
 
