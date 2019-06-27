@@ -3,10 +3,11 @@ Welcome and hope these information can be helpful to you. We placed some tips an
 
 Play with Smart TVs should be fun, if you like to be challenged. There are a lot of devices, with different operating systems, browsers engines and hardware level. Keep in mind that you will create applications running on these low end devices, with hardware limitations and obsolete operating systems.
 
-Some devices have motion control support, such as webOS (LG operating system). This is a mandatory functionality so you need to support it to be approved in the app store. In the same way, another manufacturer, Samsung for instante, has mandatory functionalities, like multitasking.
+Some devices have motion control support, such as webOS (LG operating system). This is a mandatory functionality so you need to support it to be approved in the app store. In the same way, Samsung has mandatory functionalities, like multitasking.
 
 ## Keep Track
 [Get Started](GETTING_STARTED.md)
+
 #### About TVs Manufacturers
 [LG](LG.md)
 
