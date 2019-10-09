@@ -14,7 +14,11 @@ Some devices have motion control support, such as webOS (LG operating system). T
 ## Ecosystem
 | Manufacturer  | Operating System | Web Engine |
 | ------------- | ---------------- | ------- |
-| Samsung | Tizen¹ | - |
+| Samsung | Tizen¹ 2015 | Webkit r152340 |
+| Samsung | Tizen¹ 2016 | Webkit r152340 |
+| Samsung | Tizen¹ 2017 | Chromium M47 |
+| Samsung | Tizen¹ 2018 | Chromium M56 |
+| Samsung | Tizen¹ 2019 | Chromium M63 |
 | Samsung | Orsay¹ | - |
 | LG | webOS | Chromium / WebKit 538.2- |
 | LG | NetCast | WebKit 537.1- |
